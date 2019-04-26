@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "我的第一条博客"
+date:   2019-04-26 21:57:00
+categories: update
+---
+
+<img src="{{ site.baseurl }}/images/pic01.jpg">
+大家好，我是练习时长3年的Hog。
