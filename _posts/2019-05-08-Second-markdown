@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "我的第一条博客"
+date:   2019-05-08 19:17:00
+categories: update
+---
+
+<img src="{{ site.baseurl }}/images/pic02.jpg">
+测试。
